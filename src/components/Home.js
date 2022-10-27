@@ -14,8 +14,8 @@ const Home = () => {
         <div className="description-menu-container">
           <div className="description-section">
             <h2 className="description">We build Web3 applications.</h2>
-            <p>We believe that blockchain technology will facilitate an innovation rebirth that
-              leads to a trustless internet and society.</p> 
+            <p>We believe that blockchain technology will facilitate a rebirth in innovation. 
+              The future internet will be trustless and decentralized. </p>
           </div>
           <div className="menu-section">
             <h3><a href = "mailto: andrewcolabella@protonmail.com">Contact</a></h3>
