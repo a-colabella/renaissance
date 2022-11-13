@@ -24,7 +24,7 @@
     width: auto;
     position: absolute;
     top: calc(5% + 270px);
-    left: calc(10%);
+    left: calc(5%);
 }
 
 .description-section {
